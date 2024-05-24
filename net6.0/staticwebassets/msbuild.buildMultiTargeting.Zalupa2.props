@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Zalupa2.props" />
+</Project>
